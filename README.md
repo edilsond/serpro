@@ -2,7 +2,7 @@
 
 Para utilização da API você deverá criar uma conta na SERPRO.
 
-Deverá criar um arquivo .env com as informações de:
+Deve ser criado um arquivo .env com as informações disponibilizadas na área de cliente da SERPRO:
 - CONSUMER_KEY = 
 - CONSUMER_SECRET = 
 
