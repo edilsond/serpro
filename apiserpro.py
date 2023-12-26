@@ -30,7 +30,7 @@ def geraToken(autorization_base64):
 
 
 def consultaNFe(chave, token):
-    url = f"https://gateway.apiserpro.serpro.gov.br/consulta-nfe-df-trial/api/v1/nfe/{chave}"
+    url = f"https://gateway.apiserpro.serpro.gov.br/consulta-nfe-df/api/v1/nfe/{chave}"
 
     payload = ""
     headers = {
